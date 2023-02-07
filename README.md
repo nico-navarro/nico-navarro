@@ -1,5 +1,7 @@
 ### Hola! 👋
-Actualmente tengo el rol de Software Developer y estoy aprendiendo en el Bootcamp Backend | Go W6.
+Actualmente tengo el rol de Software Developer en el equipo de IT Governance - Process Reengineering ⚙️
+
+Cuando ingresé a MeLi pasé por el Bootcamp Backend | Go W6 🌱
 
 ### Contacto 📫
 - 📧 Correo: nicolas.navarro@mercadolibre.cl
